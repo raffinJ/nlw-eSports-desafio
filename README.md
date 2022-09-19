@@ -6,6 +6,8 @@
 
 Projeto desenvolvido como desafio final do evento Next Level Week da Rocketseat.
 
+[🔗 Clique aqui para acessar](https://raffinj.github.io/nlw-eSports-desafio/)
+
 ## 🛠 Tecnologia 
 - HTML
 - CSS
